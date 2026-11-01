@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carbonti.rubiworkshop.com/sitemap.xml
